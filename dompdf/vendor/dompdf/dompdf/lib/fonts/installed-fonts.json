@@ -1,0 +1,7 @@
+{
+    "poppins": {
+        "500": "D:\\Projects\\2bytecode\\public\\wp-content\\plugins\\twobytecode\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_f129a67533d765eb206435e8ee03292f",
+        "600": "D:\\Projects\\2bytecode\\public\\wp-content\\plugins\\twobytecode\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_a66b015c3fa086df381433bc9693ec55",
+        "300": "poppins_300_beb06be1a3d93a541cad50b83dca87a5"
+    }
+}
