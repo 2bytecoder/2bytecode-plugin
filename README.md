@@ -36,5 +36,5 @@ A WordPress plugin to extand features of 2Bytecode theme.
 
 
 **Related:
-[2ByteCode Theme](https://github.com/2bytecoder/2bytecode-theme)**
+[2ByteCode Theme](https://github.com/pathak404/2bytecode-theme)**
 
